@@ -1,0 +1,37 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-size: 20px; */
+    /* background: linear-gradient(rgb(233, 91, 115),pink); */
+}
+.regform{
+    width:350px;
+    background-color: rgba(0,0,0,.5);
+    margin:150px auto;
+    padding: 10px 20px 30px;
+    color: white;
+    border-radius: 8px;
+    font-size:20px;
+}
+.input .inp{
+    display:block;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px 10px; 
+    box-sizing:border-box; 
+    margin: 10px 0px 15px; 
+    box-shadow:2px; 
+    border-radius:8px ;
+    border: 1px solid rgb(80, 218, 223);
+}
+.regform h3{
+    color:rgb(243, 46, 46);
+    text-align:center;
+}
+.btn{
+    text-align: center; 
+    font-size:30px; 
+    padding:5px; 
+    border-radius: 8px;
+    color:white;
+    border-radius: 8px;
+}
